@@ -1,6 +1,7 @@
 # PyTorch
 PyTorch for Deep Learning &amp; Machine Learning personal studies.
-<br>
+
+
 Source: [PyTorch for Deep Learning & Machine Learning – Full Course](https://www.youtube.com/watch?v=V_xro1bcAuA) by freeCodeCamp.org.
 
 

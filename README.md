@@ -11,7 +11,6 @@ The computer does this part (finding patterns). How? Code & math.
 ### Machine Learning VS. Deep Learning
 ![machine_learning_vs_deep_learning.jpg](assets/machine_learning_vs_deep_learning.jpg)
 - Machine Learning: Structured data you may use algorithm, gradient boosted machine, random forest, tree based algorithm (dmlc XGBoost).
-<br>
 - Deep Learning: Unstructured data you may use algorithm, neural network.
 
 
@@ -22,7 +21,7 @@ The computer does this part (finding patterns). How? Code & math.
 - Nearest neighbour
 - Support vector machine
 - ...many more
-<br>
+
 _(since the advent of deep learning these are often referred to as "shallow algorithms")_
 
 
@@ -33,7 +32,6 @@ _(since the advent of deep learning these are often referred to as "shallow algo
 - Recurrent neural network
 - Transformer
 - ...many more
-
 
 (**depending** how you represent your problem, many algorithms can be used for both)
 
